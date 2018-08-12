@@ -2,22 +2,20 @@
 //              Rotación de Mapas & Modos de Juego              //
 //////////////////////////////////////////////////////////////////
 //              Mapas (No DLC)                                  //
-//      Seatown         =   mp_seatown                          //
-//      Dome            =   mp_dome                             //
-//      Arkaden			=   mp_plaza2                           //
-//      Bakaara			=   mp_mogadishu                        //
-//      Resistance		=   mp_paris                            //
-//      Downturn		=   mp_exchange                         //
-//      Bootleg			=   mp_bootleg                          //
-//      Carbon			=   mp_carbon                           //
-//      Hardhat			=   mp_hardhat                          //
-//      Lockdown		=   mp_alpha                            //
-//      Village			=   mp_village                          //
-//      Fallen			=   mp_lambeth                          //
-//      Outpost			=   mp_radar                            //
-//      Interchange		=   mp_interchange                      //
-//      Underground		=   mp_underground                      //
-//      Mission			=   mp_bravo                            //
+//      Arkaden         =   mp_plaza2                           //
+//      Bakaara         =   mp_mogadishu                        //
+//      Resistance      =   mp_paris                            //
+//      Downturn        =   mp_exchange                         //
+//      Bootleg         =   mp_bootleg                          //
+//      Carbon          =   mp_carbon                           //
+//      Hardhat         =   mp_hardhat                          //
+//      Lockdown        =   mp_alpha                            //
+//      Village         =   mp_village                          //
+//      Fallen          =   mp_lambeth                          //
+//      Outpost         =   mp_radar                            //
+//      Interchange     =   mp_interchange                      //
+//      Underground     =   mp_underground                      //
+//      Mission         =   mp_bravo                            //
 //////////////////////////////////////////////////////////////////
 //              Mapas (DLC 1)                                   //
 //      Piazza          =   mp_italy                            //
