@@ -17,4 +17,7 @@ Este repositorio se basa en el de [Musta1337](https://github.com/Musta1337/Tekno
 ## Enlaces de TeknoGods / TeknoMW3
 - [TeknoGods's Posts](https://teknogods.com/?page_id=1244) - Anuncios que haga TeknoGods, no solo sobre TeknoMW3.
 - [TeknoGods's Forum](https://forum.teknogods.com/viewforum.php?f=40) - Foro de TeknoMW3 (no es recomendado que pidas soporte, reportes bugs, etc. en este lugar...hazlo en el Discord. Pongo el enlace porque puede contener información que te pueda servir).
+- [TeknoMW3's Website](https://www.teknomw3.pw/) - Sitio Web Oficial de TeknoMW3 (ya no se usa el de TeknoGods).
+- [TeknoMW3's Blog](https://www.teknomw3.pw/blog/) - Anuncios que haga TeknoMW3 (ya no se usa el de TeknoGods).
+- [TeknoMW3's Forum](https://forum.teknomw3.pw/) - Foro de TeknoMW3 (ya no se usa el de TeknoGods).
 - [TeknoMW3's Discord](https://discord.gg/7Wxn85M) - Discord dedicado a TeknoMW3 (el Discord de TeknoGods no tiene mucho apoyo que digamos).
