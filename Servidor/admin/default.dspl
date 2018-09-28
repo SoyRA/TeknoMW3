@@ -2,6 +2,8 @@
 //              Rotación de Mapas & Modos de Juego              //
 //////////////////////////////////////////////////////////////////
 //              Mapas (No DLC)                                  //
+//      Seatown         =   mp_seatown                          //
+//      Dome            =   mp_dome                             //
 //      Arkaden         =   mp_plaza2                           //
 //      Bakaara         =   mp_mogadishu                        //
 //      Resistance      =   mp_paris                            //
@@ -27,8 +29,6 @@
 //      Sanctuary       =   mp_meteora                          //
 //      Foundation      =   mp_cement                           //
 //      Oasis           =   mp_qadeem                           //
-//      Lookout         =   mp_restrepo_ss                      //
-//      Getaway         =   mp_hillside_ss                      //
 //      Erosion         =   mp_courtyard_ss                     //
 //      Aground         =   mp_aground_ss                       //
 //////////////////////////////////////////////////////////////////
@@ -44,7 +44,18 @@
 //      Off shore       =   mp_roughneck                        //
 //      Parish          =   mp_nola                             //
 //////////////////////////////////////////////////////////////////
+//              Mapas (Face Off)                                //
+//      Erosion         =   DLC 2                               //
+//      Aground         =   DLC 2                               //
+//      U-Turn          =   DLC 3                               //
+//      Vortex          =   DLC 3                               //
+//      Intersection    =   DLC 3                               //
+//      Lookout         =   mp_restrepo_ss                      //
+//      Getaway         =   mp_hillside_ss                      //
+//////////////////////////////////////////////////////////////////
 //              Mapas (Gratuitos)                               //
+//      Erosion         =   DLC 2                               //
+//      Aground         =   DLC 2                               //
 //      Terminal        =   mp_terminal_cls                     //
 //////////////////////////////////////////////////////////////////
 //              Modos de Juego (Estándar)                       //
