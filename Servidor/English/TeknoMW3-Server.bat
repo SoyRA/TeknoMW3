@@ -7,7 +7,7 @@ ECHO /////////////////////////////////////////////
 ECHO ////               WARNING               ////
 ECHO /////////////////////////////////////////////
 ECHO.
-ECHO Si quieres cerrar tu Servidor Dedicado, debes cerrar primero esta ventana y luego la del servidor
+ECHO If you want to close your Dedicated Server, you must close this window first and then the server window.
 ECHO.
 ECHO.
 :SV
