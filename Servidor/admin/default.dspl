@@ -111,11 +111,11 @@
 //*, TDM_No-HC, 1
 
 
-mp_seatown, SD_default, 1
-mp_plaza2, SD_default, 1
-mp_paris, SD_default, 1
-mp_dome, SD_default, 1
-mp_carbon, SD_default, 1
-mp_hardhat, SD_default, 1
-mp_alpha, SD_default, 1
-mp_bravo, SD_default, 1
+mp_seatown, DOM_No-HC, 1
+mp_plaza2, DOM_No-HC, 1
+mp_paris, DOM_No-HC, 1
+mp_dome, DOM_No-HC, 1
+mp_carbon, DOM_No-HC, 1
+mp_hardhat, DOM_No-HC, 1
+mp_alpha, DOM_No-HC, 1
+mp_bravo, DOM_No-HC, 1
