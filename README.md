@@ -2,8 +2,7 @@
 ![](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg?logo=windows&logoColor=fff&colorA=0e0e0e&style=flat)
 ![](https://img.shields.io/badge/Mods-InfinityScript%20(C%23)-blue.svg?logo=atom&logoColor=fff&colorA=0e0e0e&style=flat)
 # TeknoMW3
-TeknoMW3 es un cliente para IW5 (Call of Duty: Modern Warfare 3).
-
+**TeknoMW3** es un cliente para IW5 (**Call of Duty: Modern Warfare 3**).<br>
 Este Repositorio no contiene ningún código de TeknoMW3, pero proporciona soporte y ayuda a los usuarios.
 
 ## InfinityScript
