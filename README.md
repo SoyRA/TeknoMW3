@@ -1,9 +1,16 @@
+![](https://img.shields.io/badge/Avg.%20Players-600-green.svg?colorA=0e0e0e&colorB=33cc33&style=flat)
+![](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg?logo=windows&logoColor=fff&colorA=0e0e0e&style=flat)
+![](https://img.shields.io/badge/Mods-InfinityScript%20(C%23)-blue.svg?logo=atom&logoColor=fff&colorA=0e0e0e&style=flat)
+<br>
+![](https://img.shields.io/badge/Discord-Contact%20us-green.svg?logo=discord&logoColor=000&style=social&link=https://discord.gg/7Wxn85M)
+![](https://img.shields.io/badge/Forum-Register-green.svg?logo=foursquare&logoColor=000&style=social&link=https://www.teknomw3.pw/&link=https://forum.teknomw3.pw/)
+
 # TeknoMW3
 TeknoMW3 es un cliente para IW5 (Call of Duty: Modern Warfare 3).
 
 Este Repositorio no contiene ningún código de TeknoMW3, pero proporciona soporte y ayuda a los usuarios.
 
-## Infinity Script
+## InfinityScript
 Este repositorio también contiene ejemplos de InfinityScript y varias versiones del mismo para empezar.
 
 ## Soporte para problemas con el Cliente/Servidor y para empezar
