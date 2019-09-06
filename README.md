@@ -1,25 +1,47 @@
-![](https://img.shields.io/badge/Avg.%20Players-600-green.svg?colorA=0e0e0e&colorB=33cc33&style=flat)
-![](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg?logo=windows&logoColor=fff&colorA=0e0e0e&style=flat)
-![](https://img.shields.io/badge/Mods-InfinityScript%20(C%23)-blue.svg?logo=atom&logoColor=fff&colorA=0e0e0e&style=flat)
-# TeknoMW3
-**TeknoMW3** es un cliente para IW5 (**Call of Duty: Modern Warfare 3**).<br>
-Este Repositorio no contiene ningún código de TeknoMW3, pero proporciona soporte y ayuda a los usuarios.
+<a href="#"><img src="../../blob/master/Recursos/Imagenes/TeknoMW3-Logo.png" alt="TeknoMW3-Logo" title="TeknoMW3" align="right" width="64" height="64"/></a>
 
-## InfinityScript
-Este repositorio también contiene ejemplos de InfinityScript y varias versiones del mismo para empezar.
-
-## Soporte para problemas con el Cliente/Servidor y para empezar
-Puedes obtener ayuda sobre problemas con el Cliente/Servidor en la [Wiki](https://github.com/SoyRA/TeknoMW3/wiki).
+# TeknoGods (TeknoMW3)
+![Status](https://img.shields.io/badge/Status-Online-success?style=flat-square&logo=statuspage&logoColor=fff&labelColor=000) ![Plataform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-orange?style=flat-square&logo=windows&logoColor=fff&labelColor=000) ![Mods](https://img.shields.io/badge/Mods-InfinityScript%20(C%23)-blue?style=flat-square&logo=atom&logoColor=fff&labelColor=000)
+- **TeknoMW3** es el proyecto de **TeknoGods** para poder jugar al **Call of Duty: Modern Warfare 3** (con el nombre en clave (oficial) de **IW5**).
+  - También cuenta con otros proyectos, dado que TeknoGods es un equipo de programadores a los que les gusta trabajar en varios proyectos de modificación extrema (como TeknoParrot).
+- Cuenta con las siguientes **características principales**:
+  - Servidores Dedicados [MP]
+  - Soporte para InfinityScript [MP]
+  - Lo mejor para una LAN [SO y MP]
+  - Estabilidad y aumento del rendimiento en el cliente y servidor
+  - Alta modificación de servidor
+  - Fácil de instalar
 
 ## Aviso
-TeknoMW3 no proporciona ningún tipo de archivos del CoD: MW 3 a las personas (juego base, actualizaciones, DLC, etc), dado que no apoya a la piratería.
+- Es preferible que busques información y todo en el [Foro de TeknoMW3](#enlaces-de-teknomw3), dado que ahí es donde estará realmente actualizado todo.
+- Este repositorio no contiene ningún código de TeknoMW3, tan solo proporciona soporte y ayuda a los usuarios de habla hispana.
+- Este repositorio se basa en el de [Musta](https://github.com/Musta1337/TeknoMW3).
+  - La diferencia es que el mio esta en Español, puede estar desactualizado (si él agrega algo, no lo tendré yo aquí al instante) e incluso puede contener cosas extras (o que falten).
+    - Si necesitas ir al repositorio de Jawesome99, pero no sabes Inglés, puedes usar [DeepL](https://www.deepl.com/translator) como Traductor de Inglés a Español.
+- **TeknoGods** (y por lo tanto, TeknoMW3) no apoya la piratería, esto significa que no podrán darte archivos del juego base (como los DLC, la Update 1.4.382 o 1.9.446, etc.).
 
-Este repositorio se basa en el de [Musta1337](https://github.com/Musta1337/TeknoMW3). La diferencia es que el mio esta en Español, puede estar desactualizado (si él agrega algo, no lo tendré yo aquí al instante) e incluso puede contener cosas extras (o que falten).
+## Tabla de Contenidos
+- [Cliente](../../wiki/Cliente)
+- [Servidor](../../wiki/Servidor)
+- [Preguntas Frecuentes](../../wiki/Preguntas-Frecuentes)
+- [Solución de problemas](../../wiki/Soluci%C3%B3n-de-problemas)
+- [Optimizar TeknoMW3](../../wiki/Optimizar-TeknoMW3)
+- [[B3] Big Brother Bot](https://github.com/Musta1337/TeknoMW3/wiki/Big-Brother-Bot-Setup)
+- [Update 1.4.382](../../wiki/Update-1.4.382)
+- [TeknoMW3 2.92](../../wiki/TekonMW3-2.92)
+- [Enlaces de TeknoMW3](#enlaces-de-teknomw3)
+- [Enlaces importantes de CoD: MW 3](#enlaces-importantes-de-cod-mw-3)
 
-## Enlaces de TeknoGods / TeknoMW3
-- ~~[TeknoGods's Posts](https://teknogods.com/?page_id=1244) - Anuncios que haga TeknoGods, no solo sobre TeknoMW3.~~
-- ~~[TeknoGods's Forum](https://forum.teknogods.com/viewforum.php?f=40) - Foro de TeknoMW3 (no es recomendado que pidas soporte, reportes bugs, etc. en este lugar...hazlo en el Discord. Pongo el enlace porque puede contener información que te pueda servir).~~
-- [TeknoMW3's Website](https://www.teknomw3.pw/) - Sitio Web Oficial de TeknoMW3 (ya no se usa el de TeknoGods).
-- [TeknoMW3's Blog](https://www.teknomw3.pw/blog/) - Anuncios que haga TeknoMW3 (ya no se usa el de TeknoGods).
-- [TeknoMW3's Forum](https://forum.teknomw3.pw/) - Foro de TeknoMW3 (ya no se usa el de TeknoGods).
-- [TeknoMW3's Discord](https://discord.gg/7Wxn85M) - Discord dedicado a TeknoMW3 (ya no se usa el de TeknoGods y su canal #mw3).
+## Enlaces de TeknoMW3
+**[`^        VOLVER ARRIBA        ^`](#tabla-de-contenidos)**
+- [Sitio Web](https://www.teknomw3.pw/) - Sitio web oficial de TeknoMW3.
+- [Blog](https://www.teknomw3.pw/blog/) - Blog oficial de TeknoMW3, donde se pondrán anuncios importantes sobre el proyecto.
+- [Foro](https://forum.teknomw3.pw/) - Foro oficial de TeknoMW3, donde encontrarás todas las guías y demás sobre el proyecto.
+- [Discord](https://discord.gg/7Wxn85M) - Servidor oficial de TeknoMW3, es mejor que pidas soporte aquí y demás cosas sobre el proyecto.
+
+## Enlaces importantes de CoD: MW 3
+**[`^        VOLVER ARRIBA        ^`](#tabla-de-contenidos)**
+- [Manual](https://store.steampowered.com/manual/115300/)
+- [Discusiones](https://steamcommunity.com/app/42680/discussions/) ([MP](https://steamcommunity.com/app/42690/discussions/))
+- [Guías](https://steamcommunity.com/app/42680/guides/) ([MP](https://steamcommunity.com/app/42690/guides/))
+- [PCGamingWiki](https://pcgamingwiki.com/wiki/Call_of_Duty:_Modern_Warfare_3)
