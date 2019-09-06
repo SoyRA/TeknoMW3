@@ -17,7 +17,7 @@
 - Este repositorio no contiene ningún código de TeknoMW3, tan solo proporciona soporte y ayuda a los usuarios de habla hispana.
 - Este repositorio se basa en el de [Musta](https://github.com/Musta1337/TeknoMW3).
   - La diferencia es que el mio esta en Español, puede estar desactualizado (si él agrega algo, no lo tendré yo aquí al instante) e incluso puede contener cosas extras (o que falten).
-    - Si necesitas ir al repositorio de Jawesome99, pero no sabes Inglés, puedes usar [DeepL](https://www.deepl.com/translator) como Traductor de Inglés a Español.
+    - Si necesitas ir al repositorio de Musta, pero no sabes Inglés, puedes usar [DeepL](https://www.deepl.com/translator) como Traductor de Inglés a Español.
 - **TeknoGods** (y por lo tanto, TeknoMW3) no apoya la piratería, esto significa que no podrán darte archivos del juego base (como los DLC, la Update 1.4.382 o 1.9.446, etc.).
 
 ## Tabla de Contenidos
