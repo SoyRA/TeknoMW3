@@ -31,6 +31,7 @@
 - [TeknoMW3 2.92](../../wiki/TekonMW3-2.92)
 - [Enlaces de TeknoMW3](#enlaces-de-teknomw3)
 - [Enlaces importantes de CoD: MW 3](#enlaces-importantes-de-cod-mw-3)
+- [Imágenes](#imágenes)
 
 ## Enlaces de TeknoMW3
 **[`^        VOLVER ARRIBA        ^`](#tabla-de-contenidos)**
@@ -45,3 +46,15 @@
 - [Discusiones](https://steamcommunity.com/app/42680/discussions/) ([MP](https://steamcommunity.com/app/42690/discussions/))
 - [Guías](https://steamcommunity.com/app/42680/guides/) ([MP](https://steamcommunity.com/app/42690/guides/))
 - [PCGamingWiki](https://pcgamingwiki.com/wiki/Call_of_Duty:_Modern_Warfare_3)
+
+## Imágenes
+**[`^        VOLVER ARRIBA        ^`](#tabla-de-contenidos)**
+
+| **Campaña** / **Operaciones Especiales** (**SP** / **SO**)<br>TeknoMW3 2.92 | **Modo Multijugador** (**MP**)<br>TeknoMW3 2.8.0.4 |
+|:----:|:----:|
+| <p align="center"><img src="Recursos/Imagenes/TeknoMW3-SP-SO-01.jpg" alt="TeknoMW3-SP-SO-01.jpg" width="240" height="240"> | <img src="Recursos/Imagenes/TeknoMW3-MP-01.jpg" alt="TeknoMW3-MP-01.jpg" width="426" height="240"></p> |
+| <p align="center"><img src="Recursos/Imagenes/TeknoMW3-SP-SO-02.jpg" alt="TeknoMW3-SP-SO-02.jpg" width="240" height="240"> | <img src="Recursos/Imagenes/TeknoMW3-MP-02.jpg" alt="TeknoMW3-MP-02.jpg" width="426" height="240"></p> |
+| <p align="center"><img src="Recursos/Imagenes/TeknoMW3-SP-SO-03.jpg" alt="TeknoMW3-SP-SO-03.jpg" width="426" height="240"> | <img src="Recursos/Imagenes/TeknoMW3-MP-03.jpg" alt="TeknoMW3-MP-03.jpg" width="426" height="240"></p> |
+| <p align="center"><img src="Recursos/Imagenes/TeknoMW3-SP-SO-04.jpg" alt="TeknoMW3-SP-SO-04.jpg" width="426" height="240"> | <img src="Recursos/Imagenes/TeknoMW3-MP-04.jpg" alt="TeknoMW3-MP-04.jpg" width="426" height="240"></p> |
+| **Servidor Dedicado (MP)** | **Servidor Dedicado (MP)** | 
+| <p align="center"><img src="https://alpaa.fr/assets/alpagas/alpaga_travailleur.png" alt="Coming Soon" width="130" height="200"> | <p align="center"><img src="https://alpaa.fr/assets/alpagas/alpaga_travailleur.png" alt="Coming Soon" width="130" height="200"> |
