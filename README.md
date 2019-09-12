@@ -57,4 +57,4 @@
 | <p align="center"><img src="Recursos/Imagenes/TeknoMW3-SP-SO-03.jpg" alt="TeknoMW3-SP-SO-03.jpg" width="426" height="240"> | <img src="Recursos/Imagenes/TeknoMW3-MP-03.jpg" alt="TeknoMW3-MP-03.jpg" width="426" height="240"></p> |
 | <p align="center"><img src="Recursos/Imagenes/TeknoMW3-SP-SO-04.jpg" alt="TeknoMW3-SP-SO-04.jpg" width="426" height="240"> | <img src="Recursos/Imagenes/TeknoMW3-MP-04.jpg" alt="TeknoMW3-MP-04.jpg" width="426" height="240"></p> |
 | **Servidor Dedicado (MP)** | **Servidor Dedicado (MP)** | 
-| <p align="center"><img src="https://alpaa.fr/assets/alpagas/alpaga_travailleur.png" alt="Coming Soon" width="130" height="200"> | <p align="center"><img src="https://alpaa.fr/assets/alpagas/alpaga_travailleur.png" alt="Coming Soon" width="130" height="200"> |
+| <p align="center"><img src="Recursos/Imagenes/TeknoMW3-MP-SV-01.jpg" alt="TeknoMW3-MP-SV-01.jpg" width="426" height="240"> | <img src="Recursos/Imagenes/TeknoMW3-MP-SV-02.jpg" alt="TeknoMW3-MP-SV-02.jpg" width="426" height="240"></p> |
