@@ -47,8 +47,8 @@
 - [[B3] Big Brother Bot](https://github.com/Musta1337/TeknoMW3/wiki/Big-Brother-Bot-Setup)
 - [Descargando el Juego Base / DLCs / Actualización 1.4.382 / Actualización 1.9.446](../../wiki/Juego-Base---DLC)
 - [TeknoMW3 2.92 - Jugar Modo Individual, Operaciones Especiales y Cooperativo](../../wiki/TeknoMW3-2.92)
-- [Enlaces de TeknoMW3](../blob/master/README.md#enlaces-de-teknomw3)
-- [Enlaces importantes de CoD: MW 3](../blob/master/README.md#enlaces-importantes-de-cod-mw-3)
+- [Enlaces de TeknoMW3](#enlaces-de-teknomw3)
+- [Enlaces importantes de CoD: MW 3](#enlaces-importantes-de-cod-mw-3)
 
 ## Enlaces de TeknoMW3
 **[`^        VOLVER ARRIBA        ^`](#tabla-de-contenidos)**
