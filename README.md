@@ -74,6 +74,7 @@
   - [¿Qué significan las opciones que tiene el teknogods.ini?](../../wiki/Preguntas-Frecuentes#qu%C3%A9-significan-las-opciones-que-tiene-el-teknogodsini)
 - [Solución de problemas](../../wiki/Soluci%C3%B3n-de-problemas)
   - [Client-Side](../../wiki/Soluci%C3%B3n-de-problemas#client-side)
+    - [Update servers are currently unavailable / No puedo pulsar Play / Error when updating / Etc.](../../wiki/Soluci%C3%B3n-de-problemas#update-servers-are-currently-unavailable--no-puedo-pulsar-play--error-when-updating--etc)
     - [TeknoMW3_Client_Launcher.exe ha dejado de funcionar tras pulsar Play](../../wiki/Soluci%C3%B3n-de-problemas#teknomw3_client_launcherexe-ha-dejado-de-funcionar-tras-pulsar-play)
     - [Mis valores de FPS y FOV no se guardan](../../wiki/Soluci%C3%B3n-de-problemas#mis-valores-de-fps-y-fov-no-se-guardan)
     - [Cuando inicio el juego, me aparece un error diciendo que falta algún archivo .DLL en mi equipo / Couldn't load localization.txt / Couldn't load image xxx](../../wiki/Soluci%C3%B3n-de-problemas#cuando-inicio-el-juego-me-aparece-un-error-diciendo-que-falta-alg%C3%BAn-archivo-dll-en-mi-equipo--couldnt-load-localizationtxt--couldnt-load-image-xxx)
