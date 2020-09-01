@@ -17,6 +17,12 @@
   - No podemos darte los archivos del juego (como la [Actualización 1.4.382](../../wiki/Actualización-1.4.382)).
   - No te ayudaremos si has usado una copia pirata (el juego está [gratis en Steam](../../wiki/Juego-Base---DLC) ¿Por qué necesitas usar _[Lowlife repackers profiting of other peoples work].ru_?).
 
+## :wave: Mi Retiro
+- Ya no haré más nada en mi Repositorio / Wiki, ni tampoco daré soporte alguno.
+- Si quieres continuar con lo que empecé, puedes hacerle un **Fork** a mi Repositorio y Wiki.
+  - Obviamente puedes traducir todo a otro idioma y continuar desde ahí.
+    - Tan solo no olvides de agregarme a los créditos.
+
 ## Tabla de Contenidos
 - [Inicio](../../wiki)
   - [Características](../../wiki#caracter%C3%ADsticas)
